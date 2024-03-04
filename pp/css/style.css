@@ -1,0 +1,47 @@
+header{
+    border-image: auto;
+    padding: 1.25rem;
+    color: whitesmoke;
+    margin: 1.25rem auto;
+ 
+
+    
+}
+
+body{
+    background-color: rgb(172, 95, 108);
+    text-align: center;
+}
+
+.carro{
+    text-align: right;
+    
+}
+
+.container{
+    width: 50rem;
+    margin: 1.25rem auto;
+    padding: 1.25rem;
+    background-color: whitesmoke;
+    border-radius: .8rem;
+    
+}
+
+#encabezado{
+    width: 40rem;
+    height: 5rem;
+    margin: 1.25rem auto;
+    padding: 1.25rem;
+    background-color: whitesmoke;
+    color: black;
+    font-family: 'Franklin Gothic Medium',;
+    border-radius: .8rem;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.var1{
+    text-align: center;
+}
